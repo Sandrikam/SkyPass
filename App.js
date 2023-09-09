@@ -18,7 +18,7 @@ export default function App() {
         <Text style={styles.sectionTitle}>Documents For Japan</Text>
       </View>
       <View style={styles.items}>
-        <Checklist/>{}
+      <Checklist/>{}
       </View>
       <View style={styles.items}>
         <CountriesPage/>{}

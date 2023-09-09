@@ -8,6 +8,9 @@ const Checklist = () => {
     { id: '2', text: 'Visa Statement', checked: true },
     { id: '3', text: 'Work Certificate', checked: false },
     { id: '4', text: 'Last 6 Months of Bank Statement', checked: false },
+    { id: '5', text: 'invitation from Resident', checked: false },
+    { id: '6', text: '135$ Per Day', checked: false },
+    { id: '7', text: 'Valid Reason for Travel', checked: false },
   
   ]);
 
@@ -39,18 +42,7 @@ const Checklist = () => {
     
     return(
       <>
-        <Text 
-          style={{
-          //fontfamily:'TT Prosto Sans Trial',
-            fontSize:12,
-            fontWeight:'bold',
-            marginBottom:8,
-            paddingLeft:20,
-            textAlign:'justify'
-          }}
-        >
-          {step*100/steps}%
-        </Text>  
+         
         <View onLayout={e => {
           const newWidth = e.nativeEvent.layout.width;
           setWidth(newWidth);
@@ -60,8 +52,11 @@ const Checklist = () => {
             backgroundColor: '#E5F2FF',
             borderRadius: height,
             overflow:'hidden',
+            flexDirection: 'row', // Added flexDirection
+            alignItems: 'center', // Added alignItems
+            justifyContent: 'center', // Center content horizontally
           }}
-        >
+        >    
           <Animated.View 
             style ={{
               height,
@@ -70,13 +65,27 @@ const Checklist = () => {
               borderRadius: height,
               position:'absolute',
               left:0,
-              top:0,
               transform:[{
                 translateX: animatedValue,
                   },
                 ],
               }}
             />
+            <Text 
+              style={{
+              fontSize:22,
+              fontWeight:'bold',
+              paddingHorizontal:10,
+              textAlign:'justify',
+              flexDirection: 'row', // Added flexDirection
+              alignItems: 'center', // Added alignItems
+              justifyContent: 'center', // Center content horizontally
+              }}
+        >
+          {Math.round(Math.round( (step * 100) / steps) / 5) * 5}%
+        </Text>
+
+            
           </View>
         </>
       );
@@ -84,7 +93,7 @@ const Checklist = () => {
 //007FFF
   return (
     <View style={styles.container}>
-      <Progress step={items.filter((item) => item.checked).length} steps={items.length} height={30}/>
+      <Progress step={items.filter((item) => item.checked).length} steps={items.length} height={40}/>
       <FlatList
         data={items}
         keyExtractor={(item) => item.id}
