@@ -4,6 +4,9 @@ import { StyleSheet, FlatList,TouchableOpacity, Text, View, Image, ScrollView, T
 import { StatusBar } from 'expo-status-bar';
 import Header from './components/Header'; // Import the Header component
 import Checklist from './components/Checklist';
+import CountriesPage from './components/countriesPage';
+
+
 
 export default function App() {
   return (
@@ -14,15 +17,19 @@ export default function App() {
       <View style={styles.tasksWrapper}>
         <Text style={styles.sectionTitle}>Documents For Japan</Text>
       </View>
-      <View stle={styles.items}>
+      <View style={styles.items}>
         <Checklist/>{}
       </View>
-    
+      <View style={styles.items}>
+        <CountriesPage/>{}
+      </View>
     
     </View>
     
   );
 }
+
+
 
 const styles = StyleSheet.create({
   container: {
