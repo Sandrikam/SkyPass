@@ -1,12 +1,26 @@
+// Imports
+import React from 'react';
+import { StyleSheet, FlatList,TouchableOpacity, Text, View, Image, ScrollView, TextInput } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import Header from './components/Header'; // Import the Header component
+import Checklist from './components/Checklist';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>This is a VIew!</Text>
+      <Header/>{}
       <StatusBar style="auto" />
+    
+      <View style={styles.tasksWrapper}>
+        <Text style={styles.sectionTitle}>Documents For Japan</Text>
+      </View>
+      <View stle={styles.items}>
+        <Checklist/>{}
+      </View>
+    
+    
     </View>
+    
   );
 }
 
@@ -14,7 +28,13 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
   },
+  sectionTitle:{
+    color:'#002040',
+    fontSize:28,
+    fontWeight:'bold',
+    paddingHorizontal: 16,
+    paddingVertical: 15,
+
+  }
 });
