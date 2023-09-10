@@ -1,41 +1,47 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, FlatList, StyleSheet } from 'react-native';
+import { View, Text, FlatList, StyleSheet, ActivityIndicator } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+
 
 const CountriesPage = () => {
+  const [isLoading,setLoading] = useState(true);  
   const [countryData, setCountryData] = useState([]);
+  {/* Declaring our API URL hosted on Netlify */}
+  const url='https://cute-travesseiro-578584.netlify.app/countries.json';
 
   useEffect(() => {
     // Fetch the JSON data from the API
-    fetch('https://pkgstore.datahub.io/core/country-codes/country-codes_json/data/616b1fb83cbfd4eb6d9e7d52924bb00a/country-codes_json.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
-      .then((data) => {
-        // Set the fetched data in state
-        setCountryData(data);
+    fetch(url)
+      .then((response) => response.json())
+      .then((json) => {
+        setCountryData(json);
+        setLoading(false); // Set loading to false after data is fetched
+        console.log(countryData); // Log the updated data
       })
       .catch((error) => {
-        console.error('Fetch error:', error);
+        console.error('Error:', error);
+        alert('Error fetching data');
+        setLoading(false); // Ensure loading is set to false on error
       });
   }, []);
+      
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>List of Countries</Text>
-      <FlatList
-        data={countryData}
-        keyExtractor={(item) => item["CLDR display name"]}
-        renderItem={({ item }) => (
-          <View style={styles.countryItem}>
-            <Text style={styles.countryName}>{item["CLDR display name"]}</Text>
-          </View>
-        )}
-      />
+        {isLoading ? (
+            <ActivityIndicator/>
+        ) : (
+            <FlatList
+                data={countryData}
+                keyExtractor={(item) => item.name}
+                renderItem={({ item }) => (
+                <Text>{item.name}</Text>
+                )}
+            
+        />)}
+      
     </View>
-  );
+    );
 };
 
 const styles = StyleSheet.create({

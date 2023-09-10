@@ -11,16 +11,14 @@ import CountriesPage from './components/countriesPage';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Header/>{}
+    {/* Renders Statusbar such as Cellular and other info*/}
       <StatusBar style="auto" />
-    
-      <View style={styles.tasksWrapper}>
-        <Text style={styles.sectionTitle}>Documents For Japan</Text>
-      </View>
-      <View style={styles.items}>
-      <Checklist/>{}
-      </View>
-      <View style={styles.items}>
+      {/* Renders Header with logo*/}
+      <Header/>{}
+      {/* Renders Header Text */}
+      <Text style={styles.sectionTitle}>Choose Country</Text>
+      
+      <View style={styles.countries}>
         <CountriesPage/>{}
       </View>
     
@@ -29,6 +27,12 @@ export default function App() {
   );
 }
 
+// <View style={styles.tasksWrapper}>
+//         <Text style={styles.sectionTitle}>Documents For Japan</Text>
+//       </View>
+//       <View style={styles.items}>
+//       <Checklist/>{}
+//       </View>
 
 
 const styles = StyleSheet.create({
@@ -38,10 +42,13 @@ const styles = StyleSheet.create({
   },
   sectionTitle:{
     color:'#002040',
-    fontSize:28,
+    fontSize:29,
     fontWeight:'bold',
-    paddingHorizontal: 16,
+    paddingHorizontal: 21,
     paddingVertical: 15,
 
+  },
+  countries: {
+    backgroundColor:'#fff'
   }
 });

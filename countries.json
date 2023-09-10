@@ -1,0 +1,1364 @@
+[
+  {
+    "id": 4,
+    "alpha2": "af",
+    "alpha3": "afg",
+    "name": "Afghanistan",
+    "documents": []
+  },
+  {
+    "id": 8,
+    "alpha2": "al",
+    "alpha3": "alb",
+    "name": "Albania",
+    "documents": []
+  },
+  {
+    "id": 12,
+    "alpha2": "dz",
+    "alpha3": "dza",
+    "name": "Algeria",
+    "documents": []
+  },
+  {
+    "id": 20,
+    "alpha2": "ad",
+    "alpha3": "and",
+    "name": "Andorra",
+    "documents": []
+  },
+  {
+    "id": 24,
+    "alpha2": "ao",
+    "alpha3": "ago",
+    "name": "Angola",
+    "documents": []
+  },
+  {
+    "id": 28,
+    "alpha2": "ag",
+    "alpha3": "atg",
+    "name": "Antigua and Barbuda",
+    "documents": []
+  },
+  {
+    "id": 32,
+    "alpha2": "ar",
+    "alpha3": "arg",
+    "name": "Argentina",
+    "documents": []
+  },
+  {
+    "id": 51,
+    "alpha2": "am",
+    "alpha3": "arm",
+    "name": "Armenia",
+    "documents": []
+  },
+  {
+    "id": 36,
+    "alpha2": "au",
+    "alpha3": "aus",
+    "name": "Australia",
+    "documents": []
+  },
+  {
+    "id": 40,
+    "alpha2": "at",
+    "alpha3": "aut",
+    "name": "Austria",
+    "documents": []
+  },
+  {
+    "id": 31,
+    "alpha2": "az",
+    "alpha3": "aze",
+    "name": "Azerbaijan",
+    "documents": []
+  },
+  {
+    "id": 44,
+    "alpha2": "bs",
+    "alpha3": "bhs",
+    "name": "Bahamas",
+    "documents": []
+  },
+  {
+    "id": 48,
+    "alpha2": "bh",
+    "alpha3": "bhr",
+    "name": "Bahrain",
+    "documents": []
+  },
+  {
+    "id": 50,
+    "alpha2": "bd",
+    "alpha3": "bgd",
+    "name": "Bangladesh",
+    "documents": []
+  },
+  {
+    "id": 52,
+    "alpha2": "bb",
+    "alpha3": "brb",
+    "name": "Barbados",
+    "documents": []
+  },
+  {
+    "id": 112,
+    "alpha2": "by",
+    "alpha3": "blr",
+    "name": "Belarus",
+    "documents": []
+  },
+  {
+    "id": 56,
+    "alpha2": "be",
+    "alpha3": "bel",
+    "name": "Belgium",
+    "documents": []
+  },
+  {
+    "id": 84,
+    "alpha2": "bz",
+    "alpha3": "blz",
+    "name": "Belize",
+    "documents": []
+  },
+  {
+    "id": 204,
+    "alpha2": "bj",
+    "alpha3": "ben",
+    "name": "Benin",
+    "documents": []
+  },
+  {
+    "id": 64,
+    "alpha2": "bt",
+    "alpha3": "btn",
+    "name": "Bhutan",
+    "documents": []
+  },
+  {
+    "id": 68,
+    "alpha2": "bo",
+    "alpha3": "bol",
+    "name": "Bolivia (Plurinational State of)",
+    "documents": []
+  },
+  {
+    "id": 70,
+    "alpha2": "ba",
+    "alpha3": "bih",
+    "name": "Bosnia and Herzegovina",
+    "documents": []
+  },
+  {
+    "id": 72,
+    "alpha2": "bw",
+    "alpha3": "bwa",
+    "name": "Botswana",
+    "documents": []
+  },
+  {
+    "id": 76,
+    "alpha2": "br",
+    "alpha3": "bra",
+    "name": "Brazil",
+    "documents": []
+  },
+  {
+    "id": 96,
+    "alpha2": "bn",
+    "alpha3": "brn",
+    "name": "Brunei Darussalam",
+    "documents": []
+  },
+  {
+    "id": 100,
+    "alpha2": "bg",
+    "alpha3": "bgr",
+    "name": "Bulgaria",
+    "documents": []
+  },
+  {
+    "id": 854,
+    "alpha2": "bf",
+    "alpha3": "bfa",
+    "name": "Burkina Faso",
+    "documents": []
+  },
+  {
+    "id": 108,
+    "alpha2": "bi",
+    "alpha3": "bdi",
+    "name": "Burundi",
+    "documents": []
+  },
+  {
+    "id": 132,
+    "alpha2": "cv",
+    "alpha3": "cpv",
+    "name": "Cabo Verde",
+    "documents": []
+  },
+  {
+    "id": 116,
+    "alpha2": "kh",
+    "alpha3": "khm",
+    "name": "Cambodia",
+    "documents": []
+  },
+  {
+    "id": 120,
+    "alpha2": "cm",
+    "alpha3": "cmr",
+    "name": "Cameroon",
+    "documents": []
+  },
+  {
+    "id": 124,
+    "alpha2": "ca",
+    "alpha3": "can",
+    "name": "Canada",
+    "documents": []
+  },
+  {
+    "id": 140,
+    "alpha2": "cf",
+    "alpha3": "caf",
+    "name": "Central African Republic",
+    "documents": []
+  },
+  {
+    "id": 148,
+    "alpha2": "td",
+    "alpha3": "tcd",
+    "name": "Chad",
+    "documents": []
+  },
+  {
+    "id": 152,
+    "alpha2": "cl",
+    "alpha3": "chl",
+    "name": "Chile",
+    "documents": []
+  },
+  {
+    "id": 156,
+    "alpha2": "cn",
+    "alpha3": "chn",
+    "name": "China",
+    "documents": []
+  },
+  {
+    "id": 170,
+    "alpha2": "co",
+    "alpha3": "col",
+    "name": "Colombia",
+    "documents": []
+  },
+  {
+    "id": 174,
+    "alpha2": "km",
+    "alpha3": "com",
+    "name": "Comoros",
+    "documents": []
+  },
+  {
+    "id": 178,
+    "alpha2": "cg",
+    "alpha3": "cog",
+    "name": "Congo",
+    "documents": []
+  },
+  {
+    "id": 180,
+    "alpha2": "cd",
+    "alpha3": "cod",
+    "name": "Congo, Democratic Republic of the",
+    "documents": []
+  },
+  {
+    "id": 188,
+    "alpha2": "cr",
+    "alpha3": "cri",
+    "name": "Costa Rica",
+    "documents": []
+  },
+  {
+    "id": 384,
+    "alpha2": "ci",
+    "alpha3": "civ",
+    "name": "Côte d'Ivoire",
+    "documents": []
+  },
+  {
+    "id": 191,
+    "alpha2": "hr",
+    "alpha3": "hrv",
+    "name": "Croatia",
+    "documents": []
+  },
+  {
+    "id": 192,
+    "alpha2": "cu",
+    "alpha3": "cub",
+    "name": "Cuba",
+    "documents": []
+  },
+  {
+    "id": 196,
+    "alpha2": "cy",
+    "alpha3": "cyp",
+    "name": "Cyprus",
+    "documents": []
+  },
+  {
+    "id": 203,
+    "alpha2": "cz",
+    "alpha3": "cze",
+    "name": "Czechia",
+    "documents": []
+  },
+  {
+    "id": 208,
+    "alpha2": "dk",
+    "alpha3": "dnk",
+    "name": "Denmark",
+    "documents": []
+  },
+  {
+    "id": 262,
+    "alpha2": "dj",
+    "alpha3": "dji",
+    "name": "Djibouti",
+    "documents": []
+  },
+  {
+    "id": 212,
+    "alpha2": "dm",
+    "alpha3": "dma",
+    "name": "Dominica",
+    "documents": []
+  },
+  {
+    "id": 214,
+    "alpha2": "do",
+    "alpha3": "dom",
+    "name": "Dominican Republic",
+    "documents": []
+  },
+  {
+    "id": 218,
+    "alpha2": "ec",
+    "alpha3": "ecu",
+    "name": "Ecuador",
+    "documents": []
+  },
+  {
+    "id": 818,
+    "alpha2": "eg",
+    "alpha3": "egy",
+    "name": "Egypt",
+    "documents": []
+  },
+  {
+    "id": 222,
+    "alpha2": "sv",
+    "alpha3": "slv",
+    "name": "El Salvador",
+    "documents": []
+  },
+  {
+    "id": 226,
+    "alpha2": "gq",
+    "alpha3": "gnq",
+    "name": "Equatorial Guinea",
+    "documents": []
+  },
+  {
+    "id": 232,
+    "alpha2": "er",
+    "alpha3": "eri",
+    "name": "Eritrea",
+    "documents": []
+  },
+  {
+    "id": 233,
+    "alpha2": "ee",
+    "alpha3": "est",
+    "name": "Estonia",
+    "documents": []
+  },
+  {
+    "id": 748,
+    "alpha2": "sz",
+    "alpha3": "swz",
+    "name": "Eswatini",
+    "documents": []
+  },
+  {
+    "id": 231,
+    "alpha2": "et",
+    "alpha3": "eth",
+    "name": "Ethiopia",
+    "documents": []
+  },
+  {
+    "id": 242,
+    "alpha2": "fj",
+    "alpha3": "fji",
+    "name": "Fiji",
+    "documents": []
+  },
+  {
+    "id": 246,
+    "alpha2": "fi",
+    "alpha3": "fin",
+    "name": "Finland",
+    "documents": []
+  },
+  {
+    "id": 250,
+    "alpha2": "fr",
+    "alpha3": "fra",
+    "name": "France",
+    "documents": []
+  },
+  {
+    "id": 266,
+    "alpha2": "ga",
+    "alpha3": "gab",
+    "name": "Gabon",
+    "documents": []
+  },
+  {
+    "id": 270,
+    "alpha2": "gm",
+    "alpha3": "gmb",
+    "name": "Gambia",
+    "documents": []
+  },
+  {
+    "id": 268,
+    "alpha2": "ge",
+    "alpha3": "geo",
+    "name": "Georgia",
+    "documents": []
+  },
+  {
+    "id": 276,
+    "alpha2": "de",
+    "alpha3": "deu",
+    "name": "Germany",
+    "documents": []
+  },
+  {
+    "id": 288,
+    "alpha2": "gh",
+    "alpha3": "gha",
+    "name": "Ghana",
+    "documents": []
+  },
+  {
+    "id": 300,
+    "alpha2": "gr",
+    "alpha3": "grc",
+    "name": "Greece",
+    "documents": []
+  },
+  {
+    "id": 308,
+    "alpha2": "gd",
+    "alpha3": "grd",
+    "name": "Grenada",
+    "documents": []
+  },
+  {
+    "id": 320,
+    "alpha2": "gt",
+    "alpha3": "gtm",
+    "name": "Guatemala",
+    "documents": []
+  },
+  {
+    "id": 324,
+    "alpha2": "gn",
+    "alpha3": "gin",
+    "name": "Guinea",
+    "documents": []
+  },
+  {
+    "id": 624,
+    "alpha2": "gw",
+    "alpha3": "gnb",
+    "name": "Guinea-Bissau",
+    "documents": []
+  },
+  {
+    "id": 328,
+    "alpha2": "gy",
+    "alpha3": "guy",
+    "name": "Guyana",
+    "documents": []
+  },
+  {
+    "id": 332,
+    "alpha2": "ht",
+    "alpha3": "hti",
+    "name": "Haiti",
+    "documents": []
+  },
+  {
+    "id": 340,
+    "alpha2": "hn",
+    "alpha3": "hnd",
+    "name": "Honduras",
+    "documents": []
+  },
+  {
+    "id": 348,
+    "alpha2": "hu",
+    "alpha3": "hun",
+    "name": "Hungary",
+    "documents": []
+  },
+  {
+    "id": 352,
+    "alpha2": "is",
+    "alpha3": "isl",
+    "name": "Iceland",
+    "documents": []
+  },
+  {
+    "id": 356,
+    "alpha2": "in",
+    "alpha3": "ind",
+    "name": "India",
+    "documents": []
+  },
+  {
+    "id": 360,
+    "alpha2": "id",
+    "alpha3": "idn",
+    "name": "Indonesia",
+    "documents": []
+  },
+  {
+    "id": 364,
+    "alpha2": "ir",
+    "alpha3": "irn",
+    "name": "Iran (Islamic Republic of)",
+    "documents": []
+  },
+  {
+    "id": 368,
+    "alpha2": "iq",
+    "alpha3": "irq",
+    "name": "Iraq",
+    "documents": []
+  },
+  {
+    "id": 372,
+    "alpha2": "ie",
+    "alpha3": "irl",
+    "name": "Ireland",
+    "documents": []
+  },
+  {
+    "id": 376,
+    "alpha2": "il",
+    "alpha3": "isr",
+    "name": "Israel",
+    "documents": []
+  },
+  {
+    "id": 380,
+    "alpha2": "it",
+    "alpha3": "ita",
+    "name": "Italy",
+    "documents": [
+        "Passport",
+        "Returning ticket",
+        "Hotel Reservation",
+        "Travel insurance",
+        "Daily Minimum 50 EUR"
+    ]
+  },
+  {
+    "id": 388,
+    "alpha2": "jm",
+    "alpha3": "jam",
+    "name": "Jamaica",
+    "documents": []
+  },
+  {
+    "id": 392,
+    "alpha2": "jp",
+    "alpha3": "jpn",
+    "name": "Japan",
+    "documents": [
+        "Passport",
+        "Visa Statement",
+        "Work Certificate",
+        "Last 6 Months of Bank Statement"
+    ]
+  },
+  {
+    "id": 400,
+    "alpha2": "jo",
+    "alpha3": "jor",
+    "name": "Jordan",
+    "documents": []
+  },
+  {
+    "id": 398,
+    "alpha2": "kz",
+    "alpha3": "kaz",
+    "name": "Kazakhstan",
+    "documents": []
+  },
+  {
+    "id": 404,
+    "alpha2": "ke",
+    "alpha3": "ken",
+    "name": "Kenya",
+    "documents": []
+  },
+  {
+    "id": 296,
+    "alpha2": "ki",
+    "alpha3": "kir",
+    "name": "Kiribati",
+    "documents": []
+  },
+  {
+    "id": 408,
+    "alpha2": "kp",
+    "alpha3": "prk",
+    "name": "Korea (Democratic People's Republic of)",
+    "documents": []
+  },
+  {
+    "id": 410,
+    "alpha2": "kr",
+    "alpha3": "kor",
+    "name": "Korea, Republic of",
+    "documents": []
+  },
+  {
+    "id": 414,
+    "alpha2": "kw",
+    "alpha3": "kwt",
+    "name": "Kuwait",
+    "documents": []
+  },
+  {
+    "id": 417,
+    "alpha2": "kg",
+    "alpha3": "kgz",
+    "name": "Kyrgyzstan",
+    "documents": []
+  },
+  {
+    "id": 418,
+    "alpha2": "la",
+    "alpha3": "lao",
+    "name": "Lao People's Democratic Republic",
+    "documents": []
+  },
+  {
+    "id": 428,
+    "alpha2": "lv",
+    "alpha3": "lva",
+    "name": "Latvia",
+    "documents": []
+  },
+  {
+    "id": 422,
+    "alpha2": "lb",
+    "alpha3": "lbn",
+    "name": "Lebanon",
+    "documents": []
+  },
+  {
+    "id": 426,
+    "alpha2": "ls",
+    "alpha3": "lso",
+    "name": "Lesotho",
+    "documents": []
+  },
+  {
+    "id": 430,
+    "alpha2": "lr",
+    "alpha3": "lbr",
+    "name": "Liberia",
+    "documents": []
+  },
+  {
+    "id": 434,
+    "alpha2": "ly",
+    "alpha3": "lby",
+    "name": "Libya",
+    "documents": []
+  },
+  {
+    "id": 438,
+    "alpha2": "li",
+    "alpha3": "lie",
+    "name": "Liechtenstein",
+    "documents": []
+  },
+  {
+    "id": 440,
+    "alpha2": "lt",
+    "alpha3": "ltu",
+    "name": "Lithuania",
+    "documents": []
+  },
+  {
+    "id": 442,
+    "alpha2": "lu",
+    "alpha3": "lux",
+    "name": "Luxembourg",
+    "documents": []
+  },
+  {
+    "id": 450,
+    "alpha2": "mg",
+    "alpha3": "mdg",
+    "name": "Madagascar",
+    "documents": []
+  },
+  {
+    "id": 454,
+    "alpha2": "mw",
+    "alpha3": "mwi",
+    "name": "Malawi",
+    "documents": []
+  },
+  {
+    "id": 458,
+    "alpha2": "my",
+    "alpha3": "mys",
+    "name": "Malaysia",
+    "documents": []
+  },
+  {
+    "id": 462,
+    "alpha2": "mv",
+    "alpha3": "mdv",
+    "name": "Maldives",
+    "documents": []
+  },
+  {
+    "id": 466,
+    "alpha2": "ml",
+    "alpha3": "mli",
+    "name": "Mali",
+    "documents": []
+  },
+  {
+    "id": 470,
+    "alpha2": "mt",
+    "alpha3": "mlt",
+    "name": "Malta",
+    "documents": []
+  },
+  {
+    "id": 584,
+    "alpha2": "mh",
+    "alpha3": "mhl",
+    "name": "Marshall Islands",
+    "documents": []
+  },
+  {
+    "id": 478,
+    "alpha2": "mr",
+    "alpha3": "mrt",
+    "name": "Mauritania",
+    "documents": []
+  },
+  {
+    "id": 480,
+    "alpha2": "mu",
+    "alpha3": "mus",
+    "name": "Mauritius",
+    "documents": []
+  },
+  {
+    "id": 484,
+    "alpha2": "mx",
+    "alpha3": "mex",
+    "name": "Mexico",
+    "documents": []
+  },
+  {
+    "id": 583,
+    "alpha2": "fm",
+    "alpha3": "fsm",
+    "name": "Micronesia (Federated States of)",
+    "documents": []
+  },
+  {
+    "id": 498,
+    "alpha2": "md",
+    "alpha3": "mda",
+    "name": "Moldova, Republic of",
+    "documents": []
+  },
+  {
+    "id": 492,
+    "alpha2": "mc",
+    "alpha3": "mco",
+    "name": "Monaco",
+    "documents": []
+  },
+  {
+    "id": 496,
+    "alpha2": "mn",
+    "alpha3": "mng",
+    "name": "Mongolia",
+    "documents": []
+  },
+  {
+    "id": 499,
+    "alpha2": "me",
+    "alpha3": "mne",
+    "name": "Montenegro",
+    "documents": []
+  },
+  {
+    "id": 504,
+    "alpha2": "ma",
+    "alpha3": "mar",
+    "name": "Morocco",
+    "documents": []
+  },
+  {
+    "id": 508,
+    "alpha2": "mz",
+    "alpha3": "moz",
+    "name": "Mozambique",
+    "documents": []
+  },
+  {
+    "id": 104,
+    "alpha2": "mm",
+    "alpha3": "mmr",
+    "name": "Myanmar",
+    "documents": []
+  },
+  {
+    "id": 516,
+    "alpha2": "na",
+    "alpha3": "nam",
+    "name": "Namibia",
+    "documents": []
+  },
+  {
+    "id": 520,
+    "alpha2": "nr",
+    "alpha3": "nru",
+    "name": "Nauru",
+    "documents": []
+  },
+  {
+    "id": 524,
+    "alpha2": "np",
+    "alpha3": "npl",
+    "name": "Nepal",
+    "documents": []
+  },
+  {
+    "id": 528,
+    "alpha2": "nl",
+    "alpha3": "nld",
+    "name": "Netherlands",
+    "documents": []
+  },
+  {
+    "id": 554,
+    "alpha2": "nz",
+    "alpha3": "nzl",
+    "name": "New Zealand",
+    "documents": []
+  },
+  {
+    "id": 558,
+    "alpha2": "ni",
+    "alpha3": "nic",
+    "name": "Nicaragua",
+    "documents": []
+  },
+  {
+    "id": 562,
+    "alpha2": "ne",
+    "alpha3": "ner",
+    "name": "Niger",
+    "documents": []
+  },
+  {
+    "id": 566,
+    "alpha2": "ng",
+    "alpha3": "nga",
+    "name": "Nigeria",
+    "documents": []
+  },
+  {
+    "id": 807,
+    "alpha2": "mk",
+    "alpha3": "mkd",
+    "name": "North Macedonia",
+    "documents": []
+  },
+  {
+    "id": 578,
+    "alpha2": "no",
+    "alpha3": "nor",
+    "name": "Norway",
+    "documents": []
+  },
+  {
+    "id": 512,
+    "alpha2": "om",
+    "alpha3": "omn",
+    "name": "Oman",
+    "documents": []
+  },
+  {
+    "id": 586,
+    "alpha2": "pk",
+    "alpha3": "pak",
+    "name": "Pakistan",
+    "documents": []
+  },
+  {
+    "id": 585,
+    "alpha2": "pw",
+    "alpha3": "plw",
+    "name": "Palau",
+    "documents": []
+  },
+  {
+    "id": 591,
+    "alpha2": "pa",
+    "alpha3": "pan",
+    "name": "Panama",
+    "documents": []
+  },
+  {
+    "id": 598,
+    "alpha2": "pg",
+    "alpha3": "png",
+    "name": "Papua New Guinea",
+    "documents": []
+  },
+  {
+    "id": 600,
+    "alpha2": "py",
+    "alpha3": "pry",
+    "name": "Paraguay",
+    "documents": []
+  },
+  {
+    "id": 604,
+    "alpha2": "pe",
+    "alpha3": "per",
+    "name": "Peru",
+    "documents": []
+  },
+  {
+    "id": 608,
+    "alpha2": "ph",
+    "alpha3": "phl",
+    "name": "Philippines",
+    "documents": []
+  },
+  {
+    "id": 616,
+    "alpha2": "pl",
+    "alpha3": "pol",
+    "name": "Poland",
+    "documents": []
+  },
+  {
+    "id": 620,
+    "alpha2": "pt",
+    "alpha3": "prt",
+    "name": "Portugal",
+    "documents": []
+  },
+  {
+    "id": 634,
+    "alpha2": "qa",
+    "alpha3": "qat",
+    "name": "Qatar",
+    "documents": []
+  },
+  {
+    "id": 642,
+    "alpha2": "ro",
+    "alpha3": "rou",
+    "name": "Romania",
+    "documents": []
+  },
+  {
+    "id": 643,
+    "alpha2": "ru",
+    "alpha3": "rus",
+    "name": "Russian Federation",
+    "documents": []
+  },
+  {
+    "id": 646,
+    "alpha2": "rw",
+    "alpha3": "rwa",
+    "name": "Rwanda",
+    "documents": []
+  },
+  {
+    "id": 659,
+    "alpha2": "kn",
+    "alpha3": "kna",
+    "name": "Saint Kitts and Nevis",
+    "documents": []
+  },
+  {
+    "id": 662,
+    "alpha2": "lc",
+    "alpha3": "lca",
+    "name": "Saint Lucia",
+    "documents": []
+  },
+  {
+    "id": 670,
+    "alpha2": "vc",
+    "alpha3": "vct",
+    "name": "Saint Vincent and the Grenadines",
+    "documents": []
+  },
+  {
+    "id": 882,
+    "alpha2": "ws",
+    "alpha3": "wsm",
+    "name": "Samoa",
+    "documents": []
+  },
+  {
+    "id": 674,
+    "alpha2": "sm",
+    "alpha3": "smr",
+    "name": "San Marino",
+    "documents": []
+  },
+  {
+    "id": 678,
+    "alpha2": "st",
+    "alpha3": "stp",
+    "name": "Sao Tome and Principe",
+    "documents": []
+  },
+  {
+    "id": 682,
+    "alpha2": "sa",
+    "alpha3": "sau",
+    "name": "Saudi Arabia",
+    "documents": []
+  },
+  {
+    "id": 686,
+    "alpha2": "sn",
+    "alpha3": "sen",
+    "name": "Senegal",
+    "documents": []
+  },
+  {
+    "id": 688,
+    "alpha2": "rs",
+    "alpha3": "srb",
+    "name": "Serbia",
+    "documents": []
+  },
+  {
+    "id": 690,
+    "alpha2": "sc",
+    "alpha3": "syc",
+    "name": "Seychelles",
+    "documents": []
+  },
+  {
+    "id": 694,
+    "alpha2": "sl",
+    "alpha3": "sle",
+    "name": "Sierra Leone",
+    "documents": []
+  },
+  {
+    "id": 702,
+    "alpha2": "sg",
+    "alpha3": "sgp",
+    "name": "Singapore",
+    "documents": []
+  },
+  {
+    "id": 703,
+    "alpha2": "sk",
+    "alpha3": "svk",
+    "name": "Slovakia",
+    "documents": []
+  },
+  {
+    "id": 705,
+    "alpha2": "si",
+    "alpha3": "svn",
+    "name": "Slovenia",
+    "documents": []
+  },
+  {
+    "id": 90,
+    "alpha2": "sb",
+    "alpha3": "slb",
+    "name": "Solomon Islands",
+    "documents": []
+  },
+  {
+    "id": 706,
+    "alpha2": "so",
+    "alpha3": "som",
+    "name": "Somalia",
+    "documents": []
+  },
+  {
+    "id": 710,
+    "alpha2": "za",
+    "alpha3": "zaf",
+    "name": "South Africa",
+    "documents": []
+  },
+  {
+    "id": 728,
+    "alpha2": "ss",
+    "alpha3": "ssd",
+    "name": "South Sudan",
+    "documents": []
+  },
+  {
+    "id": 724,
+    "alpha2": "es",
+    "alpha3": "esp",
+    "name": "Spain",
+    "documents": []
+  },
+  {
+    "id": 144,
+    "alpha2": "lk",
+    "alpha3": "lka",
+    "name": "Sri Lanka",
+    "documents": []
+  },
+  {
+    "id": 729,
+    "alpha2": "sd",
+    "alpha3": "sdn",
+    "name": "Sudan",
+    "documents": []
+  },
+  {
+    "id": 740,
+    "alpha2": "sr",
+    "alpha3": "sur",
+    "name": "Suriname",
+    "documents": []
+  },
+  {
+    "id": 752,
+    "alpha2": "se",
+    "alpha3": "swe",
+    "name": "Sweden",
+    "documents": []
+  },
+  {
+    "id": 756,
+    "alpha2": "ch",
+    "alpha3": "che",
+    "name": "Switzerland",
+    "documents": []
+  },
+  {
+    "id": 760,
+    "alpha2": "sy",
+    "alpha3": "syr",
+    "name": "Syrian Arab Republic",
+    "documents": []
+  },
+  {
+    "id": 762,
+    "alpha2": "tj",
+    "alpha3": "tjk",
+    "name": "Tajikistan",
+    "documents": []
+  },
+  {
+    "id": 834,
+    "alpha2": "tz",
+    "alpha3": "tza",
+    "name": "Tanzania, United Republic of",
+    "documents": []
+  },
+  {
+    "id": 764,
+    "alpha2": "th",
+    "alpha3": "tha",
+    "name": "Thailand",
+    "documents": []
+  },
+  {
+    "id": 626,
+    "alpha2": "tl",
+    "alpha3": "tls",
+    "name": "Timor-Leste",
+    "documents": []
+  },
+  {
+    "id": 768,
+    "alpha2": "tg",
+    "alpha3": "tgo",
+    "name": "Togo",
+    "documents": []
+  },
+  {
+    "id": 776,
+    "alpha2": "to",
+    "alpha3": "ton",
+    "name": "Tonga",
+    "documents": []
+  },
+  {
+    "id": 780,
+    "alpha2": "tt",
+    "alpha3": "tto",
+    "name": "Trinidad and Tobago",
+    "documents": []
+  },
+  {
+    "id": 788,
+    "alpha2": "tn",
+    "alpha3": "tun",
+    "name": "Tunisia",
+    "documents": []
+  },
+  {
+    "id": 792,
+    "alpha2": "tr",
+    "alpha3": "tur",
+    "name": "Türkiye",
+    "documents": []
+  },
+  {
+    "id": 795,
+    "alpha2": "tm",
+    "alpha3": "tkm",
+    "name": "Turkmenistan",
+    "documents": []
+  },
+  {
+    "id": 798,
+    "alpha2": "tv",
+    "alpha3": "tuv",
+    "name": "Tuvalu",
+    "documents": []
+  },
+  {
+    "id": 800,
+    "alpha2": "ug",
+    "alpha3": "uga",
+    "name": "Uganda",
+    "documents": []
+  },
+  {
+    "id": 804,
+    "alpha2": "ua",
+    "alpha3": "ukr",
+    "name": "Ukraine",
+    "documents": []
+  },
+  {
+    "id": 784,
+    "alpha2": "ae",
+    "alpha3": "are",
+    "name": "United Arab Emirates",
+    "documents": []
+  },
+  {
+    "id": 826,
+    "alpha2": "gb",
+    "alpha3": "gbr",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "documents": []
+  },
+  {
+    "id": 840,
+    "alpha2": "us",
+    "alpha3": "usa",
+    "name": "United States of America",
+    "documents": []
+  },
+  {
+    "id": 858,
+    "alpha2": "uy",
+    "alpha3": "ury",
+    "name": "Uruguay",
+    "documents": []
+  },
+  {
+    "id": 860,
+    "alpha2": "uz",
+    "alpha3": "uzb",
+    "name": "Uzbekistan",
+    "documents": []
+  },
+  {
+    "id": 548,
+    "alpha2": "vu",
+    "alpha3": "vut",
+    "name": "Vanuatu",
+    "documents": []
+  },
+  {
+    "id": 862,
+    "alpha2": "ve",
+    "alpha3": "ven",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "documents": []
+  },
+  {
+    "id": 704,
+    "alpha2": "vn",
+    "alpha3": "vnm",
+    "name": "Viet Nam",
+    "documents": []
+  },
+  {
+    "id": 887,
+    "alpha2": "ye",
+    "alpha3": "yem",
+    "name": "Yemen",
+    "documents": []
+  },
+  {
+    "id": 894,
+    "alpha2": "zm",
+    "alpha3": "zmb",
+    "name": "Zambia",
+    "documents": []
+  },
+  {
+    "id": 716,
+    "alpha2": "zw",
+    "alpha3": "zwe",
+    "name": "Zimbabwe",
+    "documents": []
+  }
+]

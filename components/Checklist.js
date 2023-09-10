@@ -82,7 +82,7 @@ const Checklist = () => {
               justifyContent: 'center', // Center content horizontally
               }}
         >
-          {Math.round(Math.round( (step * 100) / steps) / 5) * 5}%
+          {Math.round((step * 100) / steps)}%
         </Text>
 
             
